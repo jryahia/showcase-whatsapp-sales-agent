@@ -40,6 +40,8 @@ Small businesses get product and price questions on WhatsApp all day. Hardcoded 
 
 ## Screenshots
 
+> Screenshots show the app running on seeded demo data, not client data.
+
 **Product catalog the agent answers from**
 
 ![Product catalog the agent answers from](assets/01-dashboard-products.png)
